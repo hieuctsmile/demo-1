@@ -1,0 +1,181 @@
+"customers": {
+            "customer": [
+                {
+                    "firstname": "ERIC LING NGEE HUA",
+                    "lastname": "",
+                    "mobile": "6596751258",
+                    "email": "ericlnb@hotmail.com",
+                    "external_id": "87A8000740",
+                    "lifetime_points": 0,
+                    "lifetime_purchases": 166,
+                    "loyalty_points": 0,
+                    "current_slab": "NONE",
+                    "registered_on": "2020-07-26 14:23:29",
+                    "updated_on": "2022-08-03 21:06:13",
+                    "type": "LOYALTY",
+                    "source": "instore",
+                    "identifiers": [],
+                    "gender": null,
+                    "registered_by": "Jurong East Mall",
+                    "registered_store": {
+                        "code": "osim.sg.jurong.est.ml",
+                        "name": "Jurong East Mall"
+                    },
+                    "registered_till": {
+                        "code": "osim.sg.jurong.est.ml",
+                        "name": "osim.sg.jurong.est.ml"
+                    },
+                    "user_groups2": [],
+                    "fraud_details": {
+                        "status": "NONE",
+                        "marked_by": "",
+                        "modified_on": "",
+                        "reason": ""
+                    },
+                    "trackers": "",
+                    "current_nps_status": null,
+                    "custom_fields": {
+                        "field": [
+                            {
+                                "name": "office_no",
+                                "value": ""
+                            },
+                            {
+                                "name": "customer_group",
+                                "value": "SILVER    "
+                            },
+                            {
+                                "name": "customer_category",
+                                "value": "DEFAULT   "
+                            },
+                            {
+                                "name": "customer_type",
+                                "value": "DEFAULT   "
+                            },
+                            {
+                                "name": "address_one",
+                                "value": "285 BUKIT BATOK EAST AVENUE 3"
+                            },
+                            {
+                                "name": "fax_no",
+                                "value": ""
+                            },
+                            {
+                                "name": "address_two",
+                                "value": "#05-427"
+                            },
+                            {
+                                "name": "address_three",
+                                "value": ""
+                            },
+                            {
+                                "name": "sex",
+                                "value": "M"
+                            },
+                            {
+                                "name": "dob",
+                                "value": "1955-02-18"
+                            },
+                            {
+                                "name": "default_id_number",
+                                "value": "N.A.                          "
+                            },
+                            {
+                                "name": "country_code",
+                                "value": "SGP"
+                            },
+                            {
+                                "name": "postal_code",
+                                "value": "650285"
+                            },
+                            {
+                                "name": "address_type",
+                                "value": "HDB Block"
+                            },
+                            {
+                                "name": "address_district",
+                                "value": "23 - Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang"
+                            },
+                            {
+                                "name": "home_no",
+                                "value": "66650700"
+                            },
+                            {
+                                "name": "allow_mail",
+                                "value": "True"
+                            },
+                            {
+                                "name": "locked",
+                                "value": "False"
+                            }
+                        ]
+                    },
+                    "extended_fields": {
+                        "field": [
+                            {
+                                "name": "dob",
+                                "value": "1955-02-18 05:30:00"
+                            },
+                            {
+                                "name": "customer_category",
+                                "value": "Default"
+                            }
+                        ]
+                    },
+                    "transactions": {
+                        "transaction": [
+                            {
+                                "id": "312038805",
+                                "number": "A8KI110632",
+                                "type": "REGULAR",
+                                "created_date": "2022-08-03 15:15:41",
+                                "store": "osim.sg.jurong.est.ml"
+                            },
+                            {
+                                "id": "248258252",
+                                "number": "A7A8090575",
+                                "type": "REGULAR",
+                                "created_date": "2020-07-26 14:23:29",
+                                "store": "osim.sg.jurong.est.ml"
+                            }
+                        ]
+                    },
+                    "coupons": {
+                        "coupon": [
+                            {
+                                "id": "211515212",
+                                "series_id": "20532",
+                                "code": "J0DNPYC7",
+                                "description": "Silver Feb 22 Bday",
+                                "created_date": "2022-02-10 12:13:34",
+                                "valid_till": "2022-03-06 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem": "false"
+                            },
+                            {
+                                "id": "156867116",
+                                "series_id": "16823",
+                                "code": "AI8JFCYM",
+                                "description": "Silver Feb 21",
+                                "created_date": "2021-02-09 10:30:10",
+                                "valid_till": "2021-03-06 23:59:59",
+                                "redeemed": "false",
+                                "same_user_multiple_redeem": "false"
+                            }
+                        ]
+                    },
+                    "notes": [],
+                    "points_summaries": {
+                        "points_summary": []
+                    },
+                    "item_status": {
+                        "success": "true",
+                        "code": "1000",
+                        "message": "Customer successfully retrieved",
+                        "warnings": {
+                            "warning": []
+                        }
+                    }
+                }
+            ]
+        }
